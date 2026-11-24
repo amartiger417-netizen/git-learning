@@ -1,1 +1,2 @@
-
+see code block below
+l=list(map(int,input().split()))
